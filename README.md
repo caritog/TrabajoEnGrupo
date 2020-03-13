@@ -1,2 +1,2 @@
-# TrabajoEnGrupo
+# TrabajoEnClase
 Trabajo en clase 
